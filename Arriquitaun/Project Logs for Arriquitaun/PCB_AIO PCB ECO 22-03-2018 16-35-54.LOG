@@ -1,0 +1,41 @@
+Added Component: Designator=C20(C1206)
+Added Component: Designator=C21(C1206)
+Added Component: Designator=C22(C1206)
+Added Component: Designator=C23(C1206)
+Added Component: Designator=C24(C1206)
+Added Component: Designator=C25(C1206)
+Added Component: Designator=C26(C1206)
+Added Component: Designator=C27(C1206)
+Added Component: Designator=C28(C1206)
+Added Component: Designator=C29(C1206)
+Added Pin To Net: NetName=DGND Pin=C20-1
+Added Pin To Net: NetName=VTREF Pin=C20-2
+Added Pin To Net: NetName=DGND Pin=C21-1
+Added Pin To Net: NetName=VTREF Pin=C21-2
+Added Pin To Net: NetName=DGND Pin=C22-1
+Added Pin To Net: NetName=VTREF Pin=C22-2
+Added Pin To Net: NetName=DGND Pin=C23-1
+Added Pin To Net: NetName=VTREF Pin=C23-2
+Added Pin To Net: NetName=DGND Pin=C24-1
+Added Pin To Net: NetName=VTREF Pin=C24-2
+Added Pin To Net: NetName=DGND Pin=C25-1
+Added Pin To Net: NetName=VTREF Pin=C25-2
+Added Pin To Net: NetName=DGND Pin=C26-1
+Added Pin To Net: NetName=VTREF Pin=C26-2
+Added Pin To Net: NetName=DGND Pin=C27-1
+Added Pin To Net: NetName=VTREF Pin=C27-2
+Added Pin To Net: NetName=DGND Pin=C28-1
+Added Pin To Net: NetName=VTREF Pin=C28-2
+Added Pin To Net: NetName=DGND Pin=C29-1
+Added Pin To Net: NetName=VTREF Pin=C29-2
+Added Member To Class: ClassName=Arriquitaun Member=Component C20 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C21 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C22 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C23 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C24 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C25 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C26 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C27 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C28 Cap Semi
+Added Member To Class: ClassName=Arriquitaun Member=Component C29 Cap Semi
+Added Room: Name=Arriquitaun

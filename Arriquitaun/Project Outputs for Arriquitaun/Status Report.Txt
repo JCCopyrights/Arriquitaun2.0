@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Arriquitaun.PrjPcb]
+   Generated File[PCB_AIO-RoundHoles.TXT]
+   Generated File[PCB_AIO-SlotHoles.TXT]
+   Generated File[PCB_AIO.LDP]
+   Generated File[PCB_AIO.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:14:35 On 23/03/2018

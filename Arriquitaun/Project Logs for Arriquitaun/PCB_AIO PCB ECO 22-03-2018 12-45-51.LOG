@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AGND Pin=D1-1
+Removed Pin From Net: NetName=AGND Pin=D2-1
+Removed Pin From Net: NetName=AGND Pin=U1-60
+Removed Pin From Net: NetName=AGND Pin=U5-3
+Removed Pin From Net: NetName=AGND Pin=U5-22
+Change Component Library : Designator=U3 Old Library=* New Library=Arriquitaun.SchLib
+Added Pin To Net: NetName=VTREF Pin=D1-1
+Added Pin To Net: NetName=VTREF Pin=D2-1
+Change Net Name : Old Net Name=AGND New Net Name=DGND
+Added Pin To Net: NetName=NetU5_3 Pin=U5-3
+Added Pin To Net: NetName=NetU5_3 Pin=U5-22
+Added Net: Name=NetU5_3
