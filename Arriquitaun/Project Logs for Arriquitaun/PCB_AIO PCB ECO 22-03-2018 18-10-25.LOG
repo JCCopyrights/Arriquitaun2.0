@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=VTREF Pin=C27-2
-Removed Pin From Net: NetName=VTREF Pin=C28-2
-Removed Pin From Net: NetName=VTREF Pin=C29-2
-Added Pin To Net: NetName=VCC_1.8V Pin=C27-2
-Added Pin To Net: NetName=VCC_1.8V Pin=C28-2
-Added Pin To Net: NetName=VCC_1.8V Pin=C29-2
