@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AT25SF041-SSHD-T
-D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3.3V 4M-bit 512K x 8 8ns 8-Pin SOIC T/R
-K
-F https://www.adestotech.com/wp-content/uploads/DS-AT25SF041_044.pdf
-$ENDCMP
-#
-#End Doc Library

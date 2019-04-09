@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IS62WVS2568FBLL-20NLI
-D SRAM 2Mb 256Kx8 20MHz 2.2-3.6V Serial SRAM
-K
-F http://www.issi.com/WW/pdf/IS62-65WVS2568FALL-BLL.pdf
-$ENDCMP
-#
-#End Doc Library
