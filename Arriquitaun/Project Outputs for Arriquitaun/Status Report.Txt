@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
 From  : Variant [[No Variations]] of Project [Arriquitaun.PrjPcb]
+   Generated File[Arriquitaun.REP]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 23:32:39 On 09/04/2019
+Finished Output Generation At 22:18:17 On 13/04/2019
