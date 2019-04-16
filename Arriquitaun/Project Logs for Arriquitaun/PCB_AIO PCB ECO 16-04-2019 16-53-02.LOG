@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Arriquitaun2 Member=D1
+Removed Member From Class: ClassName=Arriquitaun2 Member=D2
+Removed Member From Class: ClassName=Arriquitaun2 Member=R23
+Removed Member From Class: ClassName=Arriquitaun2 Member=U2
+Removed Member From Class: ClassName=Arriquitaun2 Member=U4
+Removed Member From Class: ClassName=Arriquitaun2 Member=U6
+Change Component Footprint: Designator=P5 Old Footprint=D-10 New Footprint=DVI-15
+Change component parameters: Designator = "P5"; Footprint = "DVI-15"; UniqueID = "\LIRNFHEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.es/ProductDetail/Amphenol-Commercial-Products/L77HDE15SD1CO?qs=sGAEpiMZZMvlX3nhDDO4AIhmb3wSIX3bv9XlW7v%2F%2FAg="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Arriquitaun Member=Component P5 L77HDE15SD1CO
+Added Room: Name=Arriquitaun2
+Added Room: Name=Arriquitaun

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=C113 NewDesignator=C114
+Change Component Designator: OldDesignator=C114 NewDesignator=C113
+Added Component: Designator=C112(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM31CR72D104KW3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C112-1
+Added Pin To Net: NetName=VCC_1.2V Pin=C112-2
+Added Member To Class: ClassName=Arriquitaun2 Member=Component C112 Cap Semi
+Added Room: Name=Arriquitaun2
+Added Room: Name=Arriquitaun
