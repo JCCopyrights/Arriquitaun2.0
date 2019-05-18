@@ -1,0 +1,5 @@
+*	FTDI programmer usign non usable JTAG programming interface for ICE40UP.
+*	No flsh memory to contain the configuration memory of the FPGA.
+*	Wrong footprint for the 1.2 Regulator.
+*	VGA connector footprint is upside down.
+*	PAL footprint needs bigger hole.
